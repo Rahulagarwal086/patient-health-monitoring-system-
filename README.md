@@ -30,7 +30,9 @@ A web-based application designed to manage and monitor patient health records ef
 ![Screenshot 2025-01-24 083447](https://github.com/user-attachments/assets/e6bcc4f7-825d-4354-afb4-dd61863dbac4)
 ![Screenshot 2025-01-24 083515](https://github.com/user-attachments/assets/9db58dc6-37d1-461f-95a4-ca8343674b97)
 ![Screenshot 2025-01-24 083539](https://github.com/user-attachments/assets/e4ccfc3e-4568-4593-9a26-243d7f77007c)
+![Screenshot 2025-01-24 083625](https://github.com/user-attachments/assets/c17ff8e2-292e-48bb-8f63-0b52b4a14762)
 ![Screenshot 2025-01-24 083652](https://github.com/user-attachments/assets/629d742c-b9f2-4ed0-a121-13d2f7a89884)
+![Screenshot 2025-01-24 083721](https://github.com/user-attachments/assets/3f6645be-266e-4056-8219-bdf13e0c6fa9)
 ![Screenshot 2025-01-24 083747](https://github.com/user-attachments/assets/4ad645d6-33d7-48cf-b1ed-205c6781007c)
 ---
 
